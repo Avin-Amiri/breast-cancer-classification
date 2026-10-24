@@ -70,7 +70,7 @@ Two of 114 test samples were misclassified.
 ## How to run
 
 ```bash
-git clone https://github.com/<your-name>/breast-cancer-classification.git
+git clone https://github.com/Avin-Amiri/breast-cancer-classification.git
 cd breast-cancer-classification
 pip install -r requirements.txt
 python breast_cancer_project.py
