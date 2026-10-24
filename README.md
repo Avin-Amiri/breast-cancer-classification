@@ -86,3 +86,5 @@ breast-cancer-classification/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+└── LICENSE
+
